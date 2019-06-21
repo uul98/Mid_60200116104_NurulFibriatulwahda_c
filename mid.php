@@ -1,6 +1,7 @@
 <?php
 $x ="mid kakas"
-$x ="Teknik Informatika"
+$y ="Teknik Informatika"
 echo $x;
+echo $y;
 
 ?>
